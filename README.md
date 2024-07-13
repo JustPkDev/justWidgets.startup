@@ -9,6 +9,14 @@
 <p>second cammand for make build.</p>
 <pre><code>npm run package</code></pre>
 
+<p>after building the app add "widgets" folder in app directory. and add "widgets.json" file in widgets directory.</p>
+<pre>example:
+<code>
+widgets/widgets.json
+justWidgets.startup.exe
+</code>
+</pre>
+
 #### how to use it.
 <p>Make widgets in html css and javascript in a folder and add a file "fileName.json"</p>
 
