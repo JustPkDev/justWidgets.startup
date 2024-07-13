@@ -2,6 +2,13 @@
 ## Just Widgets (startup)
 <p>A widgets app that runs when computer start and show widgets on desktop</p>
 
+#### how to make:
+<p>first cammand for install dependencies.</p>
+<pre><code>npm install</code></pre>
+
+<p>second cammand for make build.</p>
+<pre><code>npm run package</code></pre>
+
 #### how to use it.
 <p>Make widgets in html css and javascript in a folder and add a file "fileName.json"</p>
 
